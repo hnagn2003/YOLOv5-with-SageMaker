@@ -33,4 +33,11 @@ Uploading an image to the S3 will trigger Lambda function. OpenCV will go with L
 
 
 
-
+2. 
+![](../static/images/workshop-cicd.png)
+3. 
+![](../images/workshop-cicd.png)
+4. 
+![](/images/workshop-cicd.png)
+5. 
+![](../workshop-cicd.png)
