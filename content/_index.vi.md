@@ -9,7 +9,7 @@ chapter : false
 ### Overall
  In this lab, we will run the inference of a pretrained YOLOv5 model for object detection task.
 
-![](/images/workshop-cicd.png)
+![](images/workshop-cicd.png)
 
 ### Content
  1. [Giới Thiệu ](1-introduce/)

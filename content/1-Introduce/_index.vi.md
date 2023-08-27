@@ -23,3 +23,5 @@ pre : " <b> 1. </b> "
 Trong bài thực hành này, chúng ta sẽ triển khai mô hình YOLOv5 được huấn luyện trước bằng cách sử dụng SakeMaker endpoint và gọi điểm cuối bằng Lambda. SageMaker sẽ lấy mô hình từ nơi chứa dữ liệu Amazon S3 bucket.
 
 Việc tải lên một hình ảnh lên S3 sẽ kích hoạt Lambda function. OpenCV được tích hợp trên Lambda layers để sẽ thực hiện việc suy luận và tính toán kết quả phát hiện vật thể.
+
+![](images/workshop-cicd.png)

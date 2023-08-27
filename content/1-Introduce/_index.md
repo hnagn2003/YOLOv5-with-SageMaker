@@ -19,4 +19,4 @@ In this lab, we will deploy pretrained YOLOv5 model using SakeMaker endpoint and
 
 Uploading an image to the S3 will trigger Lambda function. OpenCV will go with Lambda layers for running the inference and produce the object detection results.
 
-![](/images/workshop-cicd.png)
+![](static/images/workshop-cicd.png)
