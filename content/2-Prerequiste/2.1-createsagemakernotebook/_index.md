@@ -10,10 +10,10 @@ pre : " <b> 2.1 </b> "
 - Name: ```ml-inference```
 - Type: ```ml.c5.xlarge```
 
-  ![](../../static/images/saved/00.png)
-  ![](../../static/images/saved/000.png)
-  ![](../../static/images/saved/001.png)
-  ![](../../static/images/saved/002.png)
+  ![](../images/saved/00.png)
+  ![](/../images/saved/000.png)
+  ![](../../images/saved/001.png)
+  ![](../../images/saved/002.png)
 
 - In Permissions and encryption field, we create a role for this SageMaker
 
