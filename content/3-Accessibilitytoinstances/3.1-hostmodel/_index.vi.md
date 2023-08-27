@@ -49,9 +49,9 @@ pre : " <b> 3.1. </b> "
                                   endpoint_name=ENDPOINT_NAME)
 
         
-![](/images/saved/014-runpredict.png)
+![](/static/images/saved/014-runpredict.png)
   
   Khi triển khai xong, mở Amazon SageMaker > Endpoints bạn sẽ thấy endpoint ta đã tạo.
   
-  ![](/images/saved/018.png)
+  ![](/static/images/saved/018.png)
         
